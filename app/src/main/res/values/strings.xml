@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Green Round</string>
+    <string name="permission_rationale_location">1</string>
+    <string name="location_permission_denied">2</string>
+    <string name="permission_required_toast">0</string>
+    <string name="navigate">navigate</string>
+    <string name="start_ride">start ride</string>
+    <string name="find_ride">find ride</string>
+    <string name="title_activity_maps">Map</string>
+</resources>

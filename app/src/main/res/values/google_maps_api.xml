@@ -1,0 +1,21 @@
+<resources>
+    <!--
+    TODO: Before you run your application, you need a Google Maps API key.
+
+    To get one, follow this link, follow the directions and press "Create" at the end:
+
+    https://console.developers.google.com/flows/enableapi?apiid=maps_android_backend&keyType=CLIENT_SIDE_ANDROID&r=B5:2D:7C:29:19:4E:A2:AC:FD:F2:24:4E:13:4A:DC:27:CB:29:32:B7%3Bcom.example.amanda.trails
+
+    You can also add your credentials to an existing key, using this line:
+    B5:2D:7C:29:19:4E:A2:AC:FD:F2:24:4E:13:4A:DC:27:CB:29:32:B7;com.example.amanda.trails
+
+    Alternatively, follow the directions here:
+    https://developers.google.com/maps/documentation/android/start#get-key
+
+    Once you have your key (it starts with "AIza"), replace the "google_maps_key"
+    string in this file.
+    -->
+    <string name="google_maps_key" templateMergeStrategy="preserve" translatable="false">
+        AIzaSyDD7NRs2jlr0FMNuPZhXCm6LZQLgcAOcPw
+    </string>
+</resources>
